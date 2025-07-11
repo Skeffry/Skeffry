@@ -1,5 +1,5 @@
-## Not a particularly used repository yet, will put circuitry and other electronics things here eventually
-
+## "A person who thinks all the time, has nothing to think about but thoughts" - Alan Watts
+   
 <!--
 **Skeffry/Skeffry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
